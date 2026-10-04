@@ -45,7 +45,6 @@ apis:
 - name: Brainshop.ai
   description: Make A Free A.I Brain
   humanURL: https://brainshop.ai/
-  baseURL: https://brainshop.ai/
   tags:
   - Development
   properties:
